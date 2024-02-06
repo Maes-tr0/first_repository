@@ -1,0 +1,3 @@
+F:\Project\Graph_Pz№4\GraphElement\GraphElement\obj\Debug\Models.csproj.AssemblyReference.cache
+F:\Project\Graph_Pz№4\GraphElement\GraphElement\obj\Debug\Models.csproj.SuggestedBindingRedirects.cache
+F:\Project\Graph_Pz№4\GraphElement\GraphElement\obj\Debug\Models.csproj.CoreCompileInputs.cache
